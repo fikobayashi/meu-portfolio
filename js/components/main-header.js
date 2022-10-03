@@ -14,3 +14,8 @@ $btnClose.addEventListener('click', () => {
     $menu.style = 'display: none';
 
 })
+
+function removeMenu() {
+    $menu.classList.remove('menuOpen')
+    $menu.style = 'display: none';
+}
