@@ -1,0 +1,27 @@
+.main-input {
+    font-family: "Fira Code", sans-serif;
+    box-sizing: border-box;
+    font-size: 30px;
+    height: 50px;
+    width: 100%;
+    border: 5px solid #000;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.main-input.-textarea {
+    height: 320px;
+}
+
+@media (max-width: 845px) {
+    .main-input {
+        font-size: 15px;
+        height: 30px;
+    }
+
+    .main-input.-textarea {
+        
+        font-size: 15px;
+        height: 220px;
+    }
+}

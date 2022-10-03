@@ -1,0 +1,7 @@
+.main-label {
+    font-weight: 300;
+    /* font-size: 30px; */
+    font-size: 2.5vmax;
+    color: #fff;
+    line-height: 40px;
+}
