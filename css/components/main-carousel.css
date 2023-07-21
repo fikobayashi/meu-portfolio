@@ -49,8 +49,9 @@
 
 .main-carousel .elements {
     display: flex;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     transition: transform 100ms ease-in-out;
+    gap: 10px;
 }
 
 @media(max-width: 980px) {
