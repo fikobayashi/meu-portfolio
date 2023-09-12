@@ -1,27 +1,30 @@
 .card-project {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    background-color: #7C5E99;
-    width: 20.75vmax;
-    /* height: 280px; */
-    /* box-shadow: 0.74vmax 0.74vmax 0 #fff; */
-    box-shadow: 0.64vmax 0.64vmax 0 #fff;
-
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #7c5e99;
+  width: 20.75vmax;
+  /* height: 280px; */
+  /* box-shadow: 0.74vmax 0.74vmax 0 #fff; */
+  box-shadow: 0.64vmax 0.64vmax 0 #fff;
 }
 
 .card-project.-felipe {
-    
-    border: 1px solid #595959;
-    
+  border: 1px solid #595959;
+}
+
+.card-project.-jozimar {
+  background-color: #00FFFF;
+}
+
+.card-project.-scooter {
+  background-color: #556B2F;
 }
 
 .card-project .card.-second {
-    
-    width: 280px;
-    
+  width: 280px;
 }
 
 .card-project img {
-    width: 20.75vmax;
+  width: 20.75vmax;
 }
