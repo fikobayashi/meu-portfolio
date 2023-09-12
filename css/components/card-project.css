@@ -5,13 +5,14 @@
     background-color: #7C5E99;
     width: 20.75vmax;
     /* height: 280px; */
-    box-shadow: 0.74vmax 0.74vmax 0 #fff;
+    /* box-shadow: 0.74vmax 0.74vmax 0 #fff; */
+    box-shadow: 0.64vmax 0.64vmax 0 #fff;
 
 }
 
-.card-project.-blue {
+.card-project.-felipe {
     
-    background-color: #4C5B84;
+    border: 1px solid #595959;
     
 }
 
