@@ -5,7 +5,11 @@
     justify-content: space-evenly;    
 }
 
-
+@media(max-width: 350px) {
+    .wrapper-card {
+        gap: 25px;
+    }
+}
 
 
 
