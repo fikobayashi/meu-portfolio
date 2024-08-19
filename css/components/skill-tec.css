@@ -25,6 +25,9 @@
 @media (max-width: 350px) {
     .skill-tec .icon {
         margin-right: 25px;
-        width: 50px;
+        width: 45px;
+    }
+    .skill-tec .title {
+        font-size: 1.5vmax;
     }
 }

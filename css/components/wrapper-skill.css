@@ -35,3 +35,10 @@
         margin-left: 90px;
     }
 }
+
+@media(max-width: 350px) {
+    .wrapper-skill .progress-bar {
+        /* width: 320px; */
+        width: 23vmax;
+    }
+}
