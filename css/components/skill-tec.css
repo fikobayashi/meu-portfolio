@@ -21,3 +21,10 @@
 .skill-tec .title {
     margin-bottom: 10px;
 }
+
+@media (max-width: 350px) {
+    .skill-tec .icon {
+        margin-right: 25px;
+        width: 50px;
+    }
+}
