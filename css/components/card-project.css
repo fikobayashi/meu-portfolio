@@ -21,6 +21,10 @@
   background-color: #556B2F;
 }
 
+.card-project.-joshua {
+  border: 1px solid #191919;
+}
+
 .card-project .card.-second {
   width: 280px;
 }
